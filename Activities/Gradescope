@@ -1,0 +1,67 @@
+# AI-Powered Grading with Gradescope  
+🚀 *Automate grading, provide better feedback, and analyze student performance using AI.*
+
+## Objective  
+This activity guides educators in using **Gradescope** to:  
+- **Streamline grading** for handwritten, digital, and coding assignments  
+- **Leverage AI-assisted grading** for consistency and efficiency  
+- **Analyze student performance** with detailed analytics  
+
+---
+
+## Step-by-Step Activity  
+
+### 1. Set Up a Gradescope Assignment  
+1. **Log in to [Gradescope](https://www.gradescope.com/)** (instructor account required)  
+2. **Create a new assignment**:  
+   - Select **"Assignment"** → Choose type (*Exam/Quiz, Homework, Lab, etc.*)  
+   - Upload a **PDF template** (for handwritten submissions) or **link to a coding environment**  
+3. **Configure settings**:  
+   - Set due date, submission type (*variable-length, fixed-template*)  
+   - Enable **AI-assisted grading** (if available for your plan)  
+
+---
+
+### 2. Student Submissions  
+- Students submit:  
+  - **Scanned PDFs** (for handwritten work)  
+  - **Direct code uploads** (for programming assignments)  
+  - **Online answers** (for bubble sheets/text responses)  
+- **Enable AI-based parsing** (if applicable) to auto-match answers to rubric items  
+
+---
+
+### 3. AI-Assisted Grading  
+1. **Create a rubric**:  
+   - Define point values and criteria (e.g., "Correct solution: 5 pts")  
+   - Use **"AI Grouping"** to cluster similar answers (*e.g., wrong answers with the same mistake*)  
+2. **Grade submissions**:  
+   - Gradescope's AI suggests **rubric matches** based on past grading  
+   - Adjust manually as needed  
+3. **Apply bulk feedback**:  
+   - Add comments to **all similar answers** at once (e.g., "Check sign error in step 2")  
+
+---
+
+### 4. Analytics & Feedback  
+1. **View analytics dashboard**:  
+   - Identify **common mistakes** (AI highlights frequent errors)  
+   - Compare **student performance** across questions  
+2. **Export grades** to LMS (Canvas, Blackboard, etc.)  
+3. **Release feedback**:  
+   - Students see **per-question breakdowns** and AI-grouped comparisons  
+
+---
+
+## Resources  
+- [Gradescope Instructor Guide](https://help.gradescope.com/)  
+- [AI Grading Demo Video](https://www.youtube.com/watch?v=example)  
+- [Autograder Setup Docs](https://gradescope-autograders.readthedocs.io/)  
+
+---
+
+### Outcome  
+Educators will learn to:  
+- **Automate grading** for diverse assignment types  
+- **Use AI insights** to improve teaching interventions  
+- **Provide faster, fairer feedback** at scale  
