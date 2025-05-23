@@ -1,2 +1,2 @@
 # Teaching-with-AI
-![Teaching with AI](/images/image.png)
+![Teaching with AI](images/image.png)
