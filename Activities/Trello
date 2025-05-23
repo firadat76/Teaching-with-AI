@@ -1,0 +1,44 @@
+# AI-Powered Lesson Planning with Trello
+🚀 *Organize, automate, and enhance your teaching workflow using Trello and AI tools.*
+
+## Objective
+This activity guides educators in using **Trello** to:
+- **Structure lesson plans** visually using boards and cards
+- **Automate repetitive tasks** with Butler (Trello's built-in automation)
+- **Integrate AI tools** for enhanced content creation and organization
+
+---
+
+## Step-by-Step Activity
+
+### 1. Set Up Your Trello Teaching Board
+1. **Create a new board**:
+   - Go to [Trello](https://trello.com) and click *"Create new board"*
+   - Name it (e.g., "Grade 10 Science - Semester 1")
+2. **Add basic lists**:
+   - `Lesson Backlog` | `This Week` | `In Progress` | `Completed` | `Resources`
+3. **Customize with colors/labels**:
+   - Use labels for subjects/topics (e.g., blue=Biology, red=Chemistry)
+
+---
+
+### 2. Create Smart Cards for Lessons
+1. **Add lesson cards**:
+   - Under `Lesson Backlog`, click *"Add card"* for each lesson/topic
+   - Example card title: "Photosynthesis Lab - Day 1"
+2. **Enhance cards with**:
+   - Checklists for lesson steps
+   - Due dates for pacing
+   - Attachments (PDFs, links, Google Docs)
+3. **Use AI-powered suggestions**:
+   - Try *Trello's card suggestions* to auto-populate recurring items
+
+---
+
+### 3. Automate with Butler
+1. **Access Butler**: Click the *⚡ Butler* button in top right
+2. **Create useful rules**:
+   ```plaintext
+   When a card is moved to "Completed":
+   - Add next week's lesson to "This Week"
+   - Tag with "Ready" label
