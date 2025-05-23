@@ -1,0 +1,88 @@
+# AI-Powered Quiz with Google Forms, Sheets, and Flubaroo  
+
+🚀 **A hands-on activity for educators to automate grading using AI-powered tools.**  
+
+## Objective  
+This activity guides teachers in creating a **self-grading quiz** using:  
+- **Google Forms** (for quiz creation)  
+- **Google Sheets** (for data analysis)  
+- **Flubaroo** (for auto-grading)  
+
+We'll also explore how **AI enhances assessment efficiency** in education.  
+
+---
+
+## Step-by-Step Guide  
+
+### 1. Create a Quiz in Google Forms  
+1. Go to [Google Forms](https://forms.google.com) and start a new blank form.  
+2. **Title your quiz** (e.g., "AI in Education Quiz").  
+3. **Add questions** (multiple-choice, short answer, etc.). Example:  
+   - *"What is one benefit of using AI in education?"*  
+     - A) Faster grading  
+     - B) Personalized learning  
+     - C) Automated feedback  
+     - D) All of the above ✅  
+4. **Enable quiz mode:**  
+   - Click the **Settings (⚙) icon** → **Quizzes** → **Make this a quiz**.  
+   - Choose to **release grades immediately** or later.  
+
+---
+
+### 2. Collect Student Responses  
+- **Share the form** via link, email, or Google Classroom.  
+- Have students complete the quiz (or simulate responses).  
+
+---
+
+### 3. Analyze Data in Google Sheets  
+1. Open the **Responses tab** in Google Forms.  
+2. Click **Google Sheets** to view responses in a spreadsheet.  
+3. **Explore AI-powered features in Sheets:**  
+   - Use **"Explore"** (bottom-right) to generate automatic charts.  
+   - Try **AI-based sorting/filtering** to analyze trends.  
+
+---
+
+### 4. Auto-Grade with Flubaroo  
+1. **Install Flubaroo** (Add-ons → Get add-ons → Search "Flubaroo").  
+2. **Run Flubaroo:**  
+   - Open **Add-ons → Flubaroo → Grade Assignment**.  
+   - Select an **answer key** (your responses or a key sheet).  
+3. **Review auto-graded results:**  
+   - Flubaroo highlights incorrect answers.  
+   - Generates **student performance reports**.  
+
+---
+
+## AI in Education: Discussion Points  
+- How did **AI tools (Flubaroo, Google’s auto-analysis)** save time?  
+- Can AI **fully replace manual grading**? Why or why not?  
+- What other **AI tools (e.g., ChatGPT for feedback)** could enhance assessments?  
+
+---
+
+## Extensions & Advanced Ideas  
+- **Generate quizzes using ChatGPT** (Prompt: *"Create a 5-question MCQ quiz on AI in education"*).  
+- Compare **Flubaroo vs. Google Forms’ built-in grading**.  
+- Explore **AI-driven feedback tools** (e.g., Gradescope, Turnitin).  
+
+---
+
+## Resources  
+- [Google Forms](https://forms.google.com)  
+- [Flubaroo Add-on](http://www.flubaroo.com/)  
+- [Google Sheets AI Features](https://workspace.google.com/products/sheets/)  
+
+---
+
+### Outcome  
+Teachers will learn to **automate assessments** while critically evaluating **AI’s role in education**.  
+
+💡 **Want a ready-to-use template?** [Check here!](#) (Link your template if available)  
+
+---
+
+📌 **License:** [MIT](LICENSE) | **Contributions welcome!** 🛠  
+
+Let’s make grading smarter with AI! 🤖✨  
