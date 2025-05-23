@@ -1,0 +1,41 @@
+# 🧠 Leveraging Notion AI for Lesson Planning
+
+This guide walks educators through using **Notion** and **Notion AI** to generate content like lesson summaries and rubrics.
+
+## 🛠️ Tools Required
+
+- [Notion](https://www.notion.so/) (Free account)
+- Notion AI (Free trial or Pro version)
+
+---
+
+## 📘 Step-by-Step Guide
+
+### 📁 Step 1: Create a Notion Page
+
+1. Go to [Notion](https://www.notion.so).
+2. Create a new page.
+3. Title it: `Lesson Plan – Week 1`.
+
+---
+
+### 🧠 Step 2: Access Notion AI
+
+1. Click anywhere in the page.
+2. Type `/ai` or click the **sparkle icon ✨** that appears.
+3. Choose an option or type your own prompt.
+
+---
+
+### ✍️ Step 3: Use AI Prompts
+
+Try the following AI prompts:
+
+#### 🔹 For a Lesson Summary
+```text
+Generate a lesson summary for a Week 1 unit on digital tools in education, focusing on Trello and Notion.
+
+# Prompts
+Create a rubric for assessing students’ use of digital tools like Trello and Notion in project-based learning.
+
+List 3 SMART learning objectives for a 2-week module on AI-assisted lesson planning.
