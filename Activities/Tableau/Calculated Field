@@ -1,0 +1,27 @@
+Average Math Score
+AVG([math_score])
+
+Average Reading Score
+AVG([reading_score])
+
+Average Writing Score
+AVG([writing_score])
+
+Overall Performance
+[Average Math Score] + [Average Reading Score] + [Average Writing Score]
+
+// Male Count
+SUM(IF [gender] = "male" THEN 1 ELSE 0 END)
+
+// Female Count
+SUM(IF [gender] = "female" THEN 1 ELSE 0 END)
+
+// Total Students
+COUNT([Name])
+
+// Male Percentage
+{FIXED : SUM(IF [gender] = "male" THEN 1 ELSE 0 END)} / COUNT([Name])
+
+// Female Percentage
+{FIXED : SUM(IF [gender] = "female" THEN 1 ELSE 0 END)} / COUNT([Name])
+
