@@ -1,0 +1,15 @@
+Average Math Score = AVERAGE(study_performance[math_score])
+
+Average Reading Score = AVERAGE(study_performance[reading_score])
+
+Average Writing Score = AVERAGE(study_performance[writing_score])
+
+Gender Distribution = COUNTROWS(study_performance)
+
+Overall Performance = [Average Math Score] + [Average Reading Score] + [Average Writing Score]
+
+Parental Education Influence = 
+IF(AVERAGE(study_performance[parental_level_of_education]) = "bachelor's begree", "bachelor's degree",
+IF(AVERAGE(study_performance[parental_level_of_education]) = "master's degree", "master's degree", "some college"))
+
+Performance Gap = ABS([Average Math Score] - [Average Reading Score] - [Average Writing Score])
